@@ -3,7 +3,7 @@
 <p id="description">Calculadora de propinas. Simple e intuitiva.</p>
 
 <h1>Requisitos</h1>
-- Eclipse IDE\n
+- Eclipse IDE<br/>
 - Java Development Kit (JDK)
 
 
